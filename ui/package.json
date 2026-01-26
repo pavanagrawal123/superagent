@@ -38,11 +38,11 @@
     "react-dom": "18.2.0",
     "react-hook-form": "^7.43.9",
     "react-icons": "^4.8.0",
-    "react-markdown": "^8.0.7",
+    "react-markdown": "^9.0.0",
     "react-spinners": "^0.13.8",
     "react-syntax-highlighter": "^15.5.0",
     "react-use": "^17.4.0",
-    "remark-gfm": "^3.0.1",
+    "remark-gfm": "^4.0.0",
     "stripe": "^12.5.0",
     "titleize": "^3.0.0"
   },
